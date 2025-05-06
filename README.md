@@ -1,5 +1,5 @@
 # 💫 About Me:
-  🔭 I'm currently working on Beginner level projects<br>  👬 I'm looking to collaborate on WebDev projects<br>  🤝 I'm looking for help with Projects<br>  🌱 I'm currently learning WebDev<br>  💬 Ask me about coding<br> 
+  🔭 I'm currently Learning Web Development<br>  👬 I'm looking to collaborate with people for hackathons<br>  🤝 I'm looking for making lots of connections<br>  🌱 I'm currently building Projects<br>  💬 Ask me about Coding<br> 
 
 
 ## 🌐 Socials:
